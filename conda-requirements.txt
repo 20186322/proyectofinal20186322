@@ -1,0 +1,14 @@
+anyio 
+asgiref 
+certifi 
+click 
+colorama 
+fastapi 
+h11 
+idn 
+pydantic 
+sniffio 
+starlette 
+typing-extensions 
+uvicorn 
+wincertstore 
